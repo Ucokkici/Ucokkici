@@ -1,96 +1,27 @@
-# 👋 Hi, I'm Akbar (Ucok)
+# Hi, I'm Akbar (Ucok)
+**Backend Developer | Fullstack Developer**
 
-🚀 Backend Developer | Fullstack Web Developer | SMK RPL Student  
-💻 Node.js • Laravel • MySQL • TypeScript • React (learning)
+<table>
+  <tr>
+    <!-- KOLOM KIRI: ABOUT ME & TECH STACK -->
+    <td width="60%" valign="top">
 
----
+### About Me
+An SMK RPL student focused on backend development, API systems, and scalable web applications. I enjoy building real-world systems like REST APIs, database management, and integrating robust backend services.
 
-## 🧑‍💻 About Me
+### Tech Stack
 
-Saya adalah siswa SMK jurusan Rekayasa Perangkat Lunak yang fokus pada backend development dan API system.  
-Saya senang membangun sistem nyata seperti REST API, sistem booking, dan aplikasi manajemen data.
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,php,laravel,mysql,postgres,redis,prisma,react,git,docker,postman&perline=6" alt="Tech Stack" />
+</a>
 
-Saat ini saya sedang mendalami:
-- Backend development (Node.js & Laravel)
-- Database design (MySQL & PostgreSQL)
-- API architecture (REST & authentication system)
-- Clean code & scalable project structure
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Backend
-- Node.js (Express.js)
-- Laravel
-- TypeScript
-- Prisma ORM
-
-### 🗄️ Database
-- MySQL
-- PostgreSQL
-- Redis (caching)
-
-### 🎨 Frontend (basic)
-- React.js
-- HTML, CSS, JavaScript
-
-### ⚙️ Tools
-- Git & GitHub
-- Postman
-- VS Code
-- Docker (basic)
+  </tr>
+</table>
 
 ---
 
-## 🔥 Featured Projects
+##  Kontak & Portofolio
 
-### 🚀 Task Management API (Node.js + Prisma + Redis)
-- Authentication JWT (Login/Register)
-- Role-based access (Admin/User)
-- CRUD Task Management
-- AI Instruction-based operation
-- Redis caching for performance
-
----
-
-### 🏥 Clinic Booking System (Laravel + React)
-- Booking dokter online
-- Manajemen jadwal dokter
-- Admin dashboard
-- API integration
-
----
-
-### 🧾 Laundry Management App (Flutter + Laravel API)
-- Order tracking system
-- Courier navigation feature
-- Payment proof upload
-- Real-time status update
-
----
-
-## 📈 My Goals
-
-- Menjadi Backend Engineer profesional
-- Menguasai system design & scalable architecture
-- Bisa kerja di perusahaan software atau startup
-- Membangun SaaS sendiri
-
----
-
-## 📫 Contact Me
-
-- 📷 Instagram: @akbarsayangmamah
-- 🌐 Portfolio: https://portofolionetlifyapp.netlify.app
----
-
-## ⚡ Fun Fact
-
-- Saya suka debugging daripada frontend 😄
-- Lebih suka bikin system daripada UI
-- Sering begadang kalau lagi ngerjain backend logic
-
----
-
-⭐ *“Code is not just written, it is engineered.”*
+*   🌐 **Portofolio:** [portofolionetlifyapp.netlify.app](https://portofolionetlifyapp.netlify.app)
+*   📷 **Instagram:** [@akbarsayangmamah](https://instagram.com/akbarsayangmamah)
+*   🐙 **GitHub:** [github.com/username-kamu](https://github.com/username-kamu)
