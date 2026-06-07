@@ -43,14 +43,6 @@ Saat ini saya sedang mendalami:
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ucokkici&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucokkici&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Featured Projects
 
 ### 🚀 Task Management API (Node.js + Prisma + Redis)
