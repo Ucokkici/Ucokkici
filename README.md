@@ -6,8 +6,8 @@
     <!-- KOLOM KIRI: ABOUT ME & TECH STACK -->
     <td width="60%" valign="top">
 
-### About Me
-An SMK RPL student focused on backend development, API systems, and scalable web applications. I enjoy building real-world systems like REST APIs, database management, and integrating robust backend services.
+#### About Me
+A Backend Developer focused on API systems, database management, and building scalable web applications. Experienced in developing real-world systems, optimizing RESTful APIs, and integrating robust backend services.
 
 ### Tech Stack
 
