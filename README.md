@@ -24,4 +24,4 @@ An SMK RPL student focused on backend development, API systems, and scalable web
 
 *   🌐 **Portofolio:** [portofolionetlifyapp.netlify.app](https://portofolionetlifyapp.netlify.app)
 *   📷 **Instagram:** [@akbarsayangmamah](https://instagram.com/akbarsayangmamah)
-*   🐙 **GitHub:** [github.com/username-kamu](https://github.com/username-kamu)
+*   💼 **LinkedIn:** [linkedin.com/in/username-kamu](https://linkedin.com/in/username-kamu)
